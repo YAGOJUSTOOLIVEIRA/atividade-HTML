@@ -1,0 +1,22 @@
+body{
+	background-color: darkgrey;
+}
+
+a,h1{
+	float: left;
+}
+
+#borda{
+	display: inline;
+	margin-left: 10px;
+	border: solid black;
+	border-radius: 10px;
+	font-family: 'Noto Serif KR', sans-serif;
+	padding: 10px;
+}
+
+h1:hover{
+	color: darkblue;
+	font-style: italic;
+}
+
